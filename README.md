@@ -1,0 +1,2 @@
+# DatabaseManagement
+In this DatabaseManagement repository, one can find the outcomes and the codes required for an assignment for the course Database Management and Digital tools made by Viktoria Vasileva. The request was to create a movie recommendation system based on data scraped from Metacritic.com. The recommendation system was build with SQL on rpi and provides suggestions for movies based on Summary, Starring and Title of the movie. The codes can be customed to favourite movie, you can use the files to build your own system based on your choice. 
